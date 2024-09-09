@@ -1,0 +1,22 @@
+id,Name,Rank,min,max,other,event type,guests,type,pp
+1,"Kempiski Royal Maxim(Shady, Yonan,Hagar)",1.75,2200,3200,,,,,1
+2,Tiba rose Tagamo3(M. Morsy) -150-indoor,1.75,"99,000","99,000",,,150,indoor,
+3,Tiba rose Tagamo3(M. Morsy) -150-outdoor,1.75,"89,000","89,000",,,150,outdoor,
+4,Tiba rose Tagamo3(M. Morsy)-200-indoor,1.75,"117,000","117,000",,,200,indoor,
+5,Tiba rose Tagamo3(M. Morsy)-200-outdoor,1.75,"107,000","107,000",,,200,outdoor,
+6,Beau Jardin (Hady)-katbketab,1.75,"50,000","50,000",,katb ketab,,,
+7,Beau Jardin (Hady),1.75,"65,000","65,000",,"wedding,engagement",,,
+8,Dahab Palace (Gaafar),1.5,"300,000","300,000",,,,,
+9,Le reve(Gamal),1,"25,000","75,000",{'decoration':20k-50k},,,villa,
+10,Radison blu heliopolis(Hotel no. - Dina)-150,1.5,"140,000","140,000",,,150,,
+11,Radison blu heliopolis(Hotel no. - Dina)-200,1.5,"185,000","185,000",,,200,,
+12,Amal Aura villa(owner),2,9000,"9,000",,,,,
+13,Fatma Taracina-100,1.75,"19,600","26,500",,,100,,
+14,Fatma Taracina-200,1.75,"24,600","24,600",,,200,,
+15,Diez-Jack,1.75,750,"1,300",,,,,1
+16,Petals & Leaves,2,"47,695","47,695",,,,,
+17,Conrad,2,1150,1500,{'decoration': 25k},,,,1
+18,Villa Motamayez,1.25,20000,28000,,,,,
+19,Le Palais(Gigi)-henna,1.75,15000,15000,,Henna,,,
+20,Le Palais(Gigi)-wedding,1.75,30000,30000,,Wedding,,,
+21,Crowne Plaza,1.75,40000,80000,,,,,
